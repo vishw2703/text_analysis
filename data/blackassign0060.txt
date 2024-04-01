@@ -1,0 +1,863 @@
+
+ 
+ 
+     
+ 
+ Socio-technical considerations - Embedding care robots into society 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Infrastructure & Real Estate 
+ IT 
+ Lifestyle, eCommerce & Online Market Place 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ Telecom 
+ 
+ 
+ What We Do 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Hospitality 
+ Infrastructure & Real Estate 
+ IT Services 
+ Lifestyle, eCommerce & Online Market Place 
+ News & Media 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ 
+ 
+ What We Think 
+ 
+ Automobiles & Components 
+ BFSI 
+ Asset and Portfolio 
+ Banks 
+ Capital Markets 
+ Derivatives and Securities 
+ Diversified Financials 
+ Finance & Accounting 
+ Insurance 
+ Securities and Capital Markets 
+ Capital Goods 
+ Commercial & Professional Services 
+ Consumer Discretionary 
+ Consumer Durables & Apparel 
+ Consumer Services 
+ Consumer Staples 
+ Food & Staples Retailing 
+ Food, Beverage & Tobacco 
+ Household & Personal Products 
+ Data Science 
+ Analytics 
+ Artificial Intelligence 
+ Big Data 
+ Business Analytics 
+ Data Visualization 
+ Internet of Things 
+ Machine Learning 
+ Statistics 
+ Energy 
+ DataOil 
+ 
+ 
+ How To 
+ 
+ Analytics 
+ Application Development 
+ Artificial Intelligence 
+ Business Analytics 
+ Example 
+ Optimization 
+ Projects 
+ Software Development 
+ Source Code Audit 
+ Statistics 
+ Web & Mobile App Development 
+ 
+ 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ 
+ 
+ Welcome! Log into your account 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Password recovery 
+ 
+ 
+ Recover your password 
+ 
+ your email 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ Welcome! Log into your account 
+ 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? Get help 
+ 
+ 
+ Password recovery 
+ Recover your password 
+ 
+ 
+ your email 
+ 
+ 
+ A password will be e-mailed to you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monday, April 1, 2024   
+ 
+ 
+ 
+ Sign in / Join   
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Infrastructure & Real Estate IT Lifestyle, eCommerce & Online Market Place Production & Manufacturing Research & Academia 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Effective Management of Social Media Data Extraction: Strategies for Authentication, Security, and Reliability 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Do 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Hospitality Infrastructure & Real Estate IT Services Lifestyle, eCommerce & Online Market Place News & Media 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for ETL Discovery Tool using LLMA, OpenAI, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for database discovery tool using openai, LLMA, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Chatbot using VoiceFlow 
+ 
+ 
+ February 15, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud VM, GCP, AWS, Azure, Linode) and Add Domain 
+ 
+ 
+ August 8, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Think 
+ 
+ 
+ All Automobiles & Components BFSI Asset and Portfolio Banks Capital Markets Derivatives and Securities Diversified Financials Finance & Accounting Insurance Securities and Capital Markets Capital Goods 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040. 
+ 
+ 
+ August 24, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rise of Cybercrime and its Effect in upcoming Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ How To 
+ 
+ 
+ All Analytics Application Development Artificial Intelligence Business Analytics Example Optimization Projects Software Development Source Code Audit Statistics Web & Mobile App Development 
+ 
+ 
+ 
+ What We Do     
+ 
+ AI/ML and Predictive Modeling 
+ 
+ 
+ February 3, 2022   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blackcoffer     
+ 
+ Solution for Contact Centre Problems 
+ 
+ 
+ April 26, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ How to Setup Custom Domain for Google App Engine Application? 
+ 
+ 
+ February 13, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ Code Review Checklist 
+ 
+ 
+ April 10, 2020   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Search     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Home     What We Think     Embedding care robots into society and practice: Socio-technical considerations 
+ 
+ 
+ 
+ Data Science Artificial Intelligence Blackcoffer What We Think Future   Embedding care robots into society and practice: Socio-technical considerations 
+ 
+ By   Ajay Bidyarthy  -      December 2, 2020   16797   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Care Robots, as the name suggests, are robots that are used for hospitality purposes like fetching water, cracking jokes and keeping a patient in good harmony, etc. 
+ The senior care industry has been at the forefront for quite a period. The reason being, Nuclear families becoming very busy in their schedule that one day when the parents of this nuclear family are  old, children are nowhere to take care of. Instead , nursing homes have become a trend.  Parents with mental illness are being put in rehab. 
+ As observed for a few decades  robots are taking care of many activities  and they are even dominating a few fields like the automobile industry. So, Machines can indeed help humankind in achieving remarkable success in many fields. 
+ Do senior citizens  love machines  ?, You should look at them when they watch TV when they love to play video games on a smartphone. So, If we give them a human-like structure with the ability of a smartphone to make these people happy then it would be quite a monstrous feat. 
+ Blackcoffer Insights 22:Sadhana Kanaparthi,  KIAMS 
+ 
+ 
+ 
+ TAGS DoctorOnWheels DoctorRobo HospitalityRobo RoboCare RobotCareSenior RoboWithMeds Socio-technical considerations   
+ Previous article Management challenges for future digitalization of healthcare services Next article Can robots tackle late-life loneliness?   Ajay Bidyarthy     
+ RELATED ARTICLES MORE FROM AUTHOR 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment   
+ 
+     
+ 
+   
+ 
+ 
+ 
+ 
+ MOST POPULAR INSIGHTS 
+ 
+ 
+ 
+ 
+ Marketing Mix Data Analysis   
+ April 17, 2021   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ How Artificial Intelligence can deliver real value to companies?   
+ September 19, 2018   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ How Small Business can survive the Coronavirus Crisis   
+ August 18, 2020   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ ETL and MLOps Infrastructure for Blockchain Analytics   
+ September 16, 2022   
+ 
+ 
+   Load more   RECOMMENDED INSIGHTS 
+ 
+ 
+ 
+   
+ The Emergence of Data Analytics 
+ 
+   
+ 
+ 
+ 
+   
+ Lessons from the past: Some key learnings relevant to the coronavirus... 
+ 
+   
+ 
+ 
+ 
+   
+ Microsoft Azure chatbot with LUIS (Language Understanding) 
+ 
+   
+ 
+ 
+ 
+   
+ Integration of Python and Power BI, Python as an External Tool... 
+ 
+       
+ 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LATEST INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS CATEGORY Our Success Stories 197 What We Think 178 Blackcoffer 148 IT 78 Artificial Intelligence 53 Healthcare 52 Big Data 44 Lifestyle, eCommerce & Online Market Place 44 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ ABOUT US 
+ 
+ We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise. 
+ 
+ Contact us:  hello@blackcoffer.com 
+ 
+ 
+ FOLLOW US 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+ © All Right Reserved, Blackcoffer(OPC) Pvt. Ltd 
+ 
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,864 @@
+
+ 
+ 
+     
+ 
+ telemedicine - What patients like and dislike about it | blackcoffer insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Infrastructure & Real Estate 
+ IT 
+ Lifestyle, eCommerce & Online Market Place 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ Telecom 
+ 
+ 
+ What We Do 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Hospitality 
+ Infrastructure & Real Estate 
+ IT Services 
+ Lifestyle, eCommerce & Online Market Place 
+ News & Media 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ 
+ 
+ What We Think 
+ 
+ Automobiles & Components 
+ BFSI 
+ Asset and Portfolio 
+ Banks 
+ Capital Markets 
+ Derivatives and Securities 
+ Diversified Financials 
+ Finance & Accounting 
+ Insurance 
+ Securities and Capital Markets 
+ Capital Goods 
+ Commercial & Professional Services 
+ Consumer Discretionary 
+ Consumer Durables & Apparel 
+ Consumer Services 
+ Consumer Staples 
+ Food & Staples Retailing 
+ Food, Beverage & Tobacco 
+ Household & Personal Products 
+ Data Science 
+ Analytics 
+ Artificial Intelligence 
+ Big Data 
+ Business Analytics 
+ Data Visualization 
+ Internet of Things 
+ Machine Learning 
+ Statistics 
+ Energy 
+ DataOil 
+ 
+ 
+ How To 
+ 
+ Analytics 
+ Application Development 
+ Artificial Intelligence 
+ Business Analytics 
+ Example 
+ Optimization 
+ Projects 
+ Software Development 
+ Source Code Audit 
+ Statistics 
+ Web & Mobile App Development 
+ 
+ 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ 
+ 
+ Welcome! Log into your account 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Password recovery 
+ 
+ 
+ Recover your password 
+ 
+ your email 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ Welcome! Log into your account 
+ 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? Get help 
+ 
+ 
+ Password recovery 
+ Recover your password 
+ 
+ 
+ your email 
+ 
+ 
+ A password will be e-mailed to you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monday, April 1, 2024   
+ 
+ 
+ 
+ Sign in / Join   
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Infrastructure & Real Estate IT Lifestyle, eCommerce & Online Market Place Production & Manufacturing Research & Academia 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Effective Management of Social Media Data Extraction: Strategies for Authentication, Security, and Reliability 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Do 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Hospitality Infrastructure & Real Estate IT Services Lifestyle, eCommerce & Online Market Place News & Media 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for ETL Discovery Tool using LLMA, OpenAI, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for database discovery tool using openai, LLMA, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Chatbot using VoiceFlow 
+ 
+ 
+ February 15, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud VM, GCP, AWS, Azure, Linode) and Add Domain 
+ 
+ 
+ August 8, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Think 
+ 
+ 
+ All Automobiles & Components BFSI Asset and Portfolio Banks Capital Markets Derivatives and Securities Diversified Financials Finance & Accounting Insurance Securities and Capital Markets Capital Goods 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040. 
+ 
+ 
+ August 24, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rise of Cybercrime and its Effect in upcoming Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ How To 
+ 
+ 
+ All Analytics Application Development Artificial Intelligence Business Analytics Example Optimization Projects Software Development Source Code Audit Statistics Web & Mobile App Development 
+ 
+ 
+ 
+ What We Do     
+ 
+ AI/ML and Predictive Modeling 
+ 
+ 
+ February 3, 2022   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blackcoffer     
+ 
+ Solution for Contact Centre Problems 
+ 
+ 
+ April 26, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ How to Setup Custom Domain for Google App Engine Application? 
+ 
+ 
+ February 13, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ Code Review Checklist 
+ 
+ 
+ April 10, 2020   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Search     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Home     What We Think     What patients like and dislike about telemedicine? 
+ 
+ 
+ 
+ Blackcoffer What We Think Future Prediction   What patients like and dislike about telemedicine? 
+ 
+ By   Ajay Bidyarthy  -      January 13, 2021   17099   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In today’s world, telemedicine technology is one of those technologies which has brought about a change. Compared to the early days there have been remarkable differences in the methods of consultation with a doctor. In the years that have passed by, consultation for a disease with a doctor was quite hectic. It involved waiting, traveling, etc. But with the advent of telemedicine opportunities, this has completely changed. 
+ It is a rural area that has been completely blessed with the invention of telemedicine. Today a considerable amount of people are able to consult doctors remotely. Not just doctors, but specialists  in various fields of medicine.  This has been of great importance as far as rural people are concerned. There are a lot of telemedicine tools that have been found. There are a lot of areas like  ophthalmology, oncology, dermatology,  etc where the facility of telemedicine has been practiced. 
+ Most of the patients are truly benefitting from telemedicine. Patients are pretty satisfied with the consultation they are getting. They don’t have to travel now. They can consult doctors and other specialists from remote areas. The cost of consultation has become pretty much affordable. Moreover, they get exposed to highly efficient and qualified experts in the field of medicine. 
+ On the other hand, there can be patients who do not fully get satisfied  through a virtual consultation . Rather they might feel that they need to have a direct talk with the doctor, which can boost up their confidence and also it helps to maintain a better relationship with the doctor and patient. The patients feel trust when they talk to doctors face to face. Moreover, doctors also might be able to console their patients when they have direct interaction with their patients. There could also be patients who doubt if these virtual methodologies are really trusted worthy or not. It is so because, while the patients have direct contact with their patients, the qualifications are visible to the patients. So there shall be no question of distrust. 
+ There are major challenges like better connectivity of the internet, without which the patients will not be able to have continuous interaction with the doctors. Technical glitches may hinder the consultation too. Moreover, emergency situations cannot be addressed beyond a limit through telemedicine. 
+ Blackcoffer Insights 23: Miriam sam, Scms school of technology and management. 
+ 
+ 
+ 
+ TAGS # patients # specialist # telemedicine technology # telemedicine tools #consultation #doctors #virtual   
+ Previous article How we forecast future technologies? Next article Impact of AI in health and medicine   Ajay Bidyarthy     
+ RELATED ARTICLES MORE FROM AUTHOR 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment   
+ 
+     
+ 
+   
+ 
+ 
+ 
+ 
+ MOST POPULAR INSIGHTS 
+ 
+ 
+ 
+ 
+ Role of Big Data in Academia   
+ May 26, 2017   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Google Local Service Ads (LSA) Leads Dashboard   
+ February 14, 2022   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Management challenges for future digitalization of healthcare services   
+ December 2, 2020   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ AWS QuickSight Reporting Dashboard   
+ January 16, 2022   
+ 
+ 
+   Load more   RECOMMENDED INSIGHTS 
+ 
+ 
+ 
+   
+ Google Local Service Ads Missed Calls and Messages Automation Tool 
+ 
+   
+ 
+ 
+ 
+   
+ Turning the Professional Networking Data into Actionable Insights 
+ 
+   
+ 
+ 
+ 
+   
+ PPT: Solution to quadratic assignment problems (QAP) using Ant Colony System 
+ 
+   
+ 
+ 
+ 
+   
+ Transalta: Migration of servers from VMware to AWS Client 
+ 
+       
+ 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LATEST INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS CATEGORY Our Success Stories 197 What We Think 178 Blackcoffer 148 IT 78 Artificial Intelligence 53 Healthcare 52 Big Data 44 Lifestyle, eCommerce & Online Market Place 44 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ ABOUT US 
+ 
+ We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise. 
+ 
+ Contact us:  hello@blackcoffer.com 
+ 
+ 
+ FOLLOW US 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+ © All Right Reserved, Blackcoffer(OPC) Pvt. Ltd 
+ 
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

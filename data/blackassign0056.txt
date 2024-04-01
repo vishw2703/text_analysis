@@ -1,0 +1,893 @@
+
+ 
+ 
+     
+ 
+ AI in health and medicine | impact of AI | blackcoffer insights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Infrastructure & Real Estate 
+ IT 
+ Lifestyle, eCommerce & Online Market Place 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ Telecom 
+ 
+ 
+ What We Do 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Hospitality 
+ Infrastructure & Real Estate 
+ IT Services 
+ Lifestyle, eCommerce & Online Market Place 
+ News & Media 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ 
+ 
+ What We Think 
+ 
+ Automobiles & Components 
+ BFSI 
+ Asset and Portfolio 
+ Banks 
+ Capital Markets 
+ Derivatives and Securities 
+ Diversified Financials 
+ Finance & Accounting 
+ Insurance 
+ Securities and Capital Markets 
+ Capital Goods 
+ Commercial & Professional Services 
+ Consumer Discretionary 
+ Consumer Durables & Apparel 
+ Consumer Services 
+ Consumer Staples 
+ Food & Staples Retailing 
+ Food, Beverage & Tobacco 
+ Household & Personal Products 
+ Data Science 
+ Analytics 
+ Artificial Intelligence 
+ Big Data 
+ Business Analytics 
+ Data Visualization 
+ Internet of Things 
+ Machine Learning 
+ Statistics 
+ Energy 
+ DataOil 
+ 
+ 
+ How To 
+ 
+ Analytics 
+ Application Development 
+ Artificial Intelligence 
+ Business Analytics 
+ Example 
+ Optimization 
+ Projects 
+ Software Development 
+ Source Code Audit 
+ Statistics 
+ Web & Mobile App Development 
+ 
+ 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ 
+ 
+ Welcome! Log into your account 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Password recovery 
+ 
+ 
+ Recover your password 
+ 
+ your email 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ Welcome! Log into your account 
+ 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? Get help 
+ 
+ 
+ Password recovery 
+ Recover your password 
+ 
+ 
+ your email 
+ 
+ 
+ A password will be e-mailed to you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monday, April 1, 2024   
+ 
+ 
+ 
+ Sign in / Join   
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Infrastructure & Real Estate IT Lifestyle, eCommerce & Online Market Place Production & Manufacturing Research & Academia 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Effective Management of Social Media Data Extraction: Strategies for Authentication, Security, and Reliability 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Do 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Hospitality Infrastructure & Real Estate IT Services Lifestyle, eCommerce & Online Market Place News & Media 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for ETL Discovery Tool using LLMA, OpenAI, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for database discovery tool using openai, LLMA, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Chatbot using VoiceFlow 
+ 
+ 
+ February 15, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud VM, GCP, AWS, Azure, Linode) and Add Domain 
+ 
+ 
+ August 8, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Think 
+ 
+ 
+ All Automobiles & Components BFSI Asset and Portfolio Banks Capital Markets Derivatives and Securities Diversified Financials Finance & Accounting Insurance Securities and Capital Markets Capital Goods 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040. 
+ 
+ 
+ August 24, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rise of Cybercrime and its Effect in upcoming Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ How To 
+ 
+ 
+ All Analytics Application Development Artificial Intelligence Business Analytics Example Optimization Projects Software Development Source Code Audit Statistics Web & Mobile App Development 
+ 
+ 
+ 
+ What We Do     
+ 
+ AI/ML and Predictive Modeling 
+ 
+ 
+ February 3, 2022   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blackcoffer     
+ 
+ Solution for Contact Centre Problems 
+ 
+ 
+ April 26, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ How to Setup Custom Domain for Google App Engine Application? 
+ 
+ 
+ February 13, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ Code Review Checklist 
+ 
+ 
+ April 10, 2020   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Search     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Home     What We Think     Impact of AI in health and medicine 
+ 
+ 
+ 
+ Data Science Artificial Intelligence Blackcoffer What We Think   Impact of AI in health and medicine 
+ 
+ By   Ajay Bidyarthy  -      February 11, 2021   17213   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI allows those in training to go through naturalistic simulations in a way that simple computer-driven algorithms cannot. The advent of natural speech and the ability of an AI  computer to draw instantly on a large database of scenarios means the response to questions, decisions, or advice from a trainee can challenge in a way that humans cannot in health and medicine 
+ Health monitoring: 
+ Wearable health trackers-like those from  FitBit ,  Apple ,  Garmin , and others- monitor health rate and activity levels. They can send alerts to the user to get more exercise and can share this information with doctors. 
+ 
+ Technology applications and  apps encourage healthier behavior  in individuals and help with the proactive management of a healthy lifestyle. 
+ AI increases the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care, for better feedback, guidance, and support. 
+ 
+ Medical imaging:  
+ Machine learning algorithms  can process unimaginable amounts of information in the blink of an eye and provide more precision than humans in spotting even the smallest detail in medical imaging.  A few of them are  Blackford ,  Zebra ,  Enlitic ,  Lunit . 
+ The company “ Zebra Medical Vision ” developed a new platform called profound, which analyzes all types of medical imaging reports that are able to find every sign of potential conditions such as osteoporosis, aortic aneurysms, and many more with a 90% accuracy rate. 
+ Digital consultation:  
+ For eg,  the digital health firm #HealthTap  developed “Dr. AI”, and apps like Babylon in the UK use AI to give medical consultations based on personal medical history and common medical knowledge. Users report their symptoms into the app, which uses speech recognition to compare against a database of illness and asks patients to specify symptoms to triage whether they should go to the ED, urgent care, or a primary care doctor. 
+ AI robot-assisted surgery: Robots have been used in medicine for more than 30 years. Surgical robots can either aid a human surgeon or execute operations by themselves. They’re also used in hospitals and labs for repetitive tasks, in rehabilitation, physical therapy, and in support of those with long-term conditions.      
+  Health chatbots such as  Babylon ,  Ada,  and mostly close-ended communications. 
+ Machine learning is a type of AI that allows computers to make predictions without being explicitly 
+ 
+ Provides formal conceptual Framework for input processing and decision making in diagnosis and management 
+ Objective decision making with less variance 
+ High speed and efficiency 
+ Unlock the power of big data and gain insight into patients. 
+ Support evidence-based decision-making, improving quality, safety, and efficiency. 
+ Coordination care and faster communication 
+ Improve patient experiences and outcomes 
+ Deliver value and reduce costs 
+ Improve health system performance and optimization 
+ 
+ Examples of AI in healthcare and medicine 
+ #MICROSOFT: Predictive analysis in vision care 
+ #GOOGLE: clinical decision support in breast cancer diagnosis 
+ #IBM WATSON: precision medicine in population health management 
+ Actionable medical insights:  An ever-increasing amount of medical data are being digitized at all public and private healthcare institutions. However, by its very nature, this kind of data is messy and unstructured. Unlike other types of business data, where traditional statistical methods can be used for quick insights, patient data is not particularly amenable to simple modeling and analytics tools. 
+  For eg .-  Enlitic, a San Francisco-based  start-up, has a mission of mixing intelligence with empathy and leverage the power of AI in health and medicine for precisely generating. 
+ Therefore, a massive parallel effort to rationalize the legal and policy-making is needed to bring the full benefit of advancement in AI technologies into the healthcare space. As technologies and AI/ML enthusiasts, we can only hope for such a bright future where the power of this intelligence. 
+ Blackcoffer Insights 24: Shaffy Garg, Baba Farid college of management and technology  
+   
+ 
+ 
+ 
+ TAGS Ada apple Babylon blackford FitBit Garmin Google healthtap IBM Watson Microsoft qventus Zebra Medical Vision   
+ Previous article What patients like and dislike about telemedicine? Next article The future of Fintech AI & blockchain.   Ajay Bidyarthy     
+ RELATED ARTICLES MORE FROM AUTHOR 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment   
+ 
+     
+ 
+   
+ 
+ 
+ 
+ 
+ MOST POPULAR INSIGHTS 
+ 
+ 
+ 
+ 
+ Marketing Tool to Notify Leads to Clients over Email and Phone   
+ August 30, 2021   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Incident Duration Prediction – Infrastructure and Real Estate   
+ February 27, 2022   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Dashboard to track the analytics of the website using Google Analytics...   
+ July 1, 2022   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Global Economy effected by Coronavirus   
+ April 15, 2020   
+ 
+ 
+   Load more   RECOMMENDED INSIGHTS 
+ 
+ 
+ 
+   
+ Analytics in Healthcare Industry 
+ 
+   
+ 
+ 
+ 
+   
+ Meta-Analysis in Healthcare Research 
+ 
+   
+ 
+ 
+ 
+   
+ Accounts Payables Analytics 
+ 
+   
+ 
+ 
+ 
+   
+ Impact of COVID-19 pandemic on entertainment industries such as theaters. 
+ 
+       
+ 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LATEST INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS CATEGORY Our Success Stories 197 What We Think 178 Blackcoffer 148 IT 78 Artificial Intelligence 53 Healthcare 52 Big Data 44 Lifestyle, eCommerce & Online Market Place 44 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ ABOUT US 
+ 
+ We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise. 
+ 
+ Contact us:  hello@blackcoffer.com 
+ 
+ 
+ FOLLOW US 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+ © All Right Reserved, Blackcoffer(OPC) Pvt. Ltd 
+ 
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

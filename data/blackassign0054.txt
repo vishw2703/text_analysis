@@ -1,0 +1,863 @@
+
+ 
+ 
+     
+ 
+ Google fit measure heart and respiratory rates using phone -how 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Infrastructure & Real Estate 
+ IT 
+ Lifestyle, eCommerce & Online Market Place 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ Telecom 
+ 
+ 
+ What We Do 
+ 
+ Banking, Financials, Securities, and Insurance 
+ Energy 
+ Entertainment 
+ Fast Moving Consumer Goods 
+ Government & Think Tanks 
+ Healthcare 
+ Hospitality 
+ Infrastructure & Real Estate 
+ IT Services 
+ Lifestyle, eCommerce & Online Market Place 
+ News & Media 
+ Production & Manufacturing 
+ Research & Academia 
+ Retail & Supply Chain 
+ 
+ 
+ What We Think 
+ 
+ Automobiles & Components 
+ BFSI 
+ Asset and Portfolio 
+ Banks 
+ Capital Markets 
+ Derivatives and Securities 
+ Diversified Financials 
+ Finance & Accounting 
+ Insurance 
+ Securities and Capital Markets 
+ Capital Goods 
+ Commercial & Professional Services 
+ Consumer Discretionary 
+ Consumer Durables & Apparel 
+ Consumer Services 
+ Consumer Staples 
+ Food & Staples Retailing 
+ Food, Beverage & Tobacco 
+ Household & Personal Products 
+ Data Science 
+ Analytics 
+ Artificial Intelligence 
+ Big Data 
+ Business Analytics 
+ Data Visualization 
+ Internet of Things 
+ Machine Learning 
+ Statistics 
+ Energy 
+ DataOil 
+ 
+ 
+ How To 
+ 
+ Analytics 
+ Application Development 
+ Artificial Intelligence 
+ Business Analytics 
+ Example 
+ Optimization 
+ Projects 
+ Software Development 
+ Source Code Audit 
+ Statistics 
+ Web & Mobile App Development 
+ 
+ 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ 
+ 
+ 
+ 
+ 
+ 
+ Welcome! Log into your account 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Password recovery 
+ 
+ 
+ Recover your password 
+ 
+ your email 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign in 
+ Welcome! Log into your account 
+ 
+ 
+ your username 
+ your password 
+ 
+ 
+ Forgot your password? Get help 
+ 
+ 
+ Password recovery 
+ Recover your password 
+ 
+ 
+ your email 
+ 
+ 
+ A password will be e-mailed to you. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Monday, April 1, 2024   
+ 
+ 
+ 
+ Sign in / Join   
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Infrastructure & Real Estate IT Lifestyle, eCommerce & Online Market Place Production & Manufacturing Research & Academia 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our Success Stories     
+ 
+ Effective Management of Social Media Data Extraction: Strategies for Authentication, Security, and Reliability 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Do 
+ 
+ 
+ All Banking, Financials, Securities, and Insurance Energy Entertainment Fast Moving Consumer Goods Government & Think Tanks Healthcare Hospitality Infrastructure & Real Estate IT Services Lifestyle, eCommerce & Online Market Place News & Media 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for ETL Discovery Tool using LLMA, OpenAI, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Methodology for database discovery tool using openai, LLMA, Langchain 
+ 
+ 
+ February 27, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ Chatbot using VoiceFlow 
+ 
+ 
+ February 15, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Do     
+ 
+ How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud VM, GCP, AWS, Azure, Linode) and Add Domain 
+ 
+ 
+ August 8, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ What We Think 
+ 
+ 
+ All Automobiles & Components BFSI Asset and Portfolio Banks Capital Markets Derivatives and Securities Diversified Financials Finance & Accounting Insurance Securities and Capital Markets Capital Goods 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040. 
+ 
+ 
+ August 24, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What We Think     
+ 
+ Rise of Cybercrime and its Effect in upcoming Future 
+ 
+ 
+ August 18, 2023   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ How To 
+ 
+ 
+ All Analytics Application Development Artificial Intelligence Business Analytics Example Optimization Projects Software Development Source Code Audit Statistics Web & Mobile App Development 
+ 
+ 
+ 
+ What We Do     
+ 
+ AI/ML and Predictive Modeling 
+ 
+ 
+ February 3, 2022   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blackcoffer     
+ 
+ Solution for Contact Centre Problems 
+ 
+ 
+ April 26, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ How to Setup Custom Domain for Google App Engine Application? 
+ 
+ 
+ February 13, 2021   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How To     
+ 
+ Code Review Checklist 
+ 
+ 
+ April 10, 2020   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Schedule Demo 
+ Contact 
+ 
+ 
+ Search     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Home     What We Think     How Google fit measure heart and respiratory rates using a phone camera? 
+ 
+ 
+ 
+ Data Science Artificial Intelligence Big Data What We Think   How Google fit measure heart and respiratory rates using a phone camera? 
+ 
+ By   Ajay Bidyarthy  -      March 4, 2021   17057   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ It was in March that Tech giant Google came up with a ground-breaking announcement of Google Fit able to measure one’s heart and respiratory rates using their smartphones. This news spread like wildfire. Instantly became the talk of the town. This feature was said to be available to the Google Fit app exclusively to its Pixel phone users. Google also plans to expand to its other Android devices in the future. 
+ This was after Google’s newest endeavor of acquiring the Fitbit for a whopping $2.1 billion. This acquisition not only does steps up a stage for a potential Google Smartwatch but also gives Google the ownerships to Fitbit’s  health business and wealth of data assets.  Users just need to place their head and upper torso in view of the front-facing phone camera for those who wish to measure their respiratory rate. For measuring Heart rate the user just has to place their finger on the rear-facing camera lens. Mind-blowing right! 
+ Once the measurements have been taken the users simply have to store and save them in the Google Fit app to monitor and track their day-to-day wellness. On asked how it’s measuring these heart rate and respiratory rate, Google  Health director of health technologies  Shwethak Patel explained that these features rely on the sensors that have been built into the smartphone, such as its camera, microphone, and accelerometer. Thanks to increasingly power sensors even in affordable smartphones and advancements in computer vision, these features let use one smartphone’s camera to track even tiny physical signals like your chest movement to measure your respiratory rate and subtle  changes in the color of your finger  for your heart rate. 
+ Pixel underwent and completed initial clinical trials to validate the algorithm cloud work in a variety of different world conditions and that too with many people while developing the features. Since our heart rate relies on approximating blood flow from color changes in someone’s fingertip, it has to account for factors such as lighting, skin tone, age. Adding to be able to measure heart and respiratory rate soon Google Fit also displays user daily stats such as daily goals, weekly goals, heart points, workout, and also sleep monitor. 
+ Blackcoffer Insights 25: Sri Vishnu S, Kristu Jayanti College (Bangalore) 
+ 
+ 
+ 
+ TAGS AI Big Data Challenge Google Googlefit Healthcare healthtech Innovation phonecamera   
+ Previous article How to access Amazon Seller Central or Vendor Central data in Power BI Next article How Python became the first choice for Data Science.   Ajay Bidyarthy     
+ RELATED ARTICLES MORE FROM AUTHOR 
+ 
+ 
+ 
+ 
+   
+ 
+ Rising IT cities and its impact on the economy, environment, infrastructure, and city life by the year 2040.   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future   
+ 
+   
+ 
+ 
+ 
+   
+ 
+ Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways   
+ 
+     
+ 
+   
+ 
+ 
+ 
+ 
+ MOST POPULAR INSIGHTS 
+ 
+ 
+ 
+ 
+ Marketing Analytics – Why do we care about it?   
+ April 30, 2019   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard   
+ August 6, 2023   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ How Retail Industry Drive Value from Big Data?   
+ July 25, 2017   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Data Harmonization, ETL, Data Cleansing, & Classifications   
+ November 7, 2019   
+ 
+ 
+   Load more   RECOMMENDED INSIGHTS 
+ 
+ 
+ 
+   
+ Methodology for ETL Discovery Tool using LLMA, OpenAI, Langchain 
+ 
+   
+ 
+ 
+ 
+   
+ Analytics in Healthcare Industry 
+ 
+   
+ 
+ 
+ 
+   
+ AI and NLP-based Solutions to Automate Data Discovery for Venture Capital... 
+ 
+   
+ 
+ 
+ 
+   
+ AI in healthcare to Improve Patient Outcomes 
+ 
+       
+ 
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LATEST INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS 
+ 
+ 
+ 
+   
+ 
+ Efficient Supply Chain Assessment: Overcoming Technical Hurdles for Web Application Development 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Streamlined Integration: Interactive Brokers API with Python for Desktop Trading Application 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Efficient Data Integration and User-Friendly Interface Development: Navigating Challenges in Web Application Deployment 
+ 
+ 
+ March 17, 2024   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POPULAR INSIGHTS CATEGORY Our Success Stories 197 What We Think 178 Blackcoffer 148 IT 78 Artificial Intelligence 53 Healthcare 52 Big Data 44 Lifestyle, eCommerce & Online Market Place 44 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ ABOUT US 
+ 
+ We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise. 
+ 
+ Contact us:  hello@blackcoffer.com 
+ 
+ 
+ FOLLOW US 
+ 
+ Facebook Linkedin Twitter Youtube 
+ 
+ 
+ 
+ 
+ © All Right Reserved, Blackcoffer(OPC) Pvt. Ltd 
+ 
+ 
+ Our Success Stories 
+ What We Do 
+ What We Think 
+ How To 
+ Schedule Demo 
+ Contact 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
